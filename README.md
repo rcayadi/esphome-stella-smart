@@ -1,6 +1,6 @@
 # Stella Smart ESPHome Component
 
-ESPHome external component for **Stella Smart BLE perfume diffuser**.
+ESPHome external component for **Stella Smart BLE perfume diffuser**. Stella is a brand of air freshener and fragrance produced by Godrej (under the auspices of Godrej Consumer Products Indonesia). Godrej itself is an Indian multinational company that acquired PT Megasari Makmur in 2010.
 
 ## Usage
 
