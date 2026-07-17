@@ -1,8 +1,0 @@
-{
-  "domain": "stella_ble",
-  "name": "Stella BLE",
-  "version": "1.0.0",
-  "dependencies": [
-    "ble_client"
-  ]
-}
